@@ -74,6 +74,8 @@
     color: #fff;
     font-weight: bold; }
   .demo02 .shop_box li img {
+    width: 131px;
+    height: 85px;
     display: inline-block;
     margin-bottom: 46px; }
   .demo02 .shop_box li .title {
