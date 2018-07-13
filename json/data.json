@@ -1,0 +1,28 @@
+{
+    "shop" : [
+        {
+            "id" : 15,
+            "intro" : "Happybrush 旋转3D电动牙刷刷头 黑色 2支装",
+            "price" : 59,
+            "del" : 79
+        },
+        {
+            "id" : 16,
+            "intro" : "RIMOWA SALSA AIR系列Cabin Multiwheel旅行",
+            "price" : 3459,
+            "del" : 4580
+        },
+        {
+            "id" : 17,
+            "intro" : "考拉工厂店 8字无限爱耳环 8字无限爱耳环",
+            "price" : 139,
+            "del" : 199
+        },
+        {
+            "id" : 18,
+            "intro" : "FUJIFILM富士 instax mini9 Buffy拍立得 一次成像相机",
+            "price" : 699,
+            "del" : 799
+        }
+    ]
+}
