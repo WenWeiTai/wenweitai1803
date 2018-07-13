@@ -42,6 +42,7 @@ var getData = (function(){
                 $('body').css('background','')
             })
             $('.list').on('click','.yes',function(){
+                $(this).parent().prev().css('display','none')
                 $('.alert_box').css('display','none')
             })
         }
